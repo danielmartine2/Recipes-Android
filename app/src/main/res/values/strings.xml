@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Recipes</string>
+
+    <!-- Recipe Strings -->
+    <string name="favourite">Favorito</string>
+    <string name="text_default">lorem ipsum</string>
+    <string name="search">Buscar...</string>
+    <string name="title_activity_apollo_detail">ApolloDetailActivity</string>
+    <string name="withoutInternet">No tienes Internet. Comprueba la onexión.</string>
+    <string name="retry">Reintentar</string>
+
+    <string name="ingredients">Ingredients</string>
+    <string name="preparation">Preparation</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Apollo colors -->
+    <color name="yellow">#FFCD06</color>
+    <color name="blue">#2196F3</color>
+    <color name="blueDark">#0E249F</color>
+    <color name="blackOpacity">#85050505</color>
+    <color name="grey">#85E0DFDF</color>
 </resources>
